@@ -2,5 +2,5 @@
 module.exports = {
 // options...
 
-  baseUrl: 'https://codesandbox.io/s/github/cricard7/testvue/'
+  baseUrl: '/s/github/cricard7/testvue'
 }
